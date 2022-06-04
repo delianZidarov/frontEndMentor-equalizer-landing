@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server",
-    "start": "npm run lite",
-    "build": "webpack"
+    "start": "npm run lite"
   },
   "author": "",
   "license": "ISC",
